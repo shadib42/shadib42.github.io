@@ -1,6 +1,6 @@
 **Shadib Shahriyar Hoque**
 
-![phone logo]([https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg](https://www.pngall.com/wp-content/uploads/10/WhatsApp-Call-PNG-Image.png))+1 437-245-1338 | [shadib.shahriyar@gmail.com](mailto:shadib.shahriyar@gmail.com) | 90 Greyfrairs Rd R3T 3J3
++1 437-245-1338 | [shadib.shahriyar@gmail.com](mailto:shadib.shahriyar@gmail.com) | 90 Greyfrairs Rd R3T 3J3
 
 **SKILLS SUMMARY**
 
