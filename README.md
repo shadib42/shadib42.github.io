@@ -1,1 +1,43 @@
-# shadib42.github.io
+# Title
+
+
+
+## Purpose
+
+
+
+## Prerequisites
+
+
+
+## Instructions, including animated gif
+
+
+
+## Markdown Tutorial
+
+
+
+## Resourse 1
+
+
+
+## Resourse 2
+
+
+
+## Resourse 3
+
+
+
+## Authors 
+
+
+
+## Acknowledgments
+
+
+
+## FAQs
+
+
