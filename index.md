@@ -1,6 +1,6 @@
 **Shadib Shahriyar Hoque**
 
-+1 437-245-1338 | [shadib.shahriyar@gmail.com](mailto:shadib.shahriyar@gmail.com) | 90 Greyfrairs Rd R3T 3J3
+[![github]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://cdn3.iconfinder.com/data/icons/feather-5/24/phone-1024.png))]+1 437-245-1338 | [shadib.shahriyar@gmail.com](mailto:shadib.shahriyar@gmail.com) | 90 Greyfrairs Rd R3T 3J3
 
 **SKILLS SUMMARY**
 
