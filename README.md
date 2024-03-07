@@ -38,7 +38,7 @@ Its purpose to surve as a guide on how to host a resume on online using tools su
 
 
 ## Resourses
-1. ![Dillinger](www.dillinger.io)
+1. [Dillinger](https://dillinger.io)
 
 
 
