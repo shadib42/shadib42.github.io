@@ -21,7 +21,9 @@
 
 **JOB EXPERIENCE**
 
-**Associate** October 2023 – PresentThe Fresh Food Company, Pembina Hall, University of Manitoba, Winnipeg, MB, Canada
+**Associate** October 2023 – Present
+
+  The Fresh Food Company, Pembina Hall, University of Manitoba, Winnipeg, MB, Canada
 
 - Worked in a variety of positions around the restaurant as part of the team.
 - Worked as a cashier and was responsible for handling the queue coming into the restaurant.
@@ -29,7 +31,9 @@
 - Worked as a dishwasher and was responsible for quality control.
 - Have also worked as a deli associate and made food according to the customer’s request.
 
-**Produce Associate** September 2021 – April 2023WalMart, Kenaston, Winnipeg, MB, Canada
+**Produce Associate** September 2021 – April 2023
+
+  WalMart, Kenaston, Winnipeg, MB, Canada
 
 - Responsible for food stocking and categorizing different types of produce.
 - Responsible for culling bad produce.
@@ -46,7 +50,9 @@ Staffmax, Notre Dame Avenue, Winnipeg, MB, Canada
 
 **VOLUNTEER EXPERIENCE**
 
-**Kevin Klein** October 2023Kirkfield Park, Winnipeg
+**Kevin Klein** October 2023
+
+  Kirkfield Park, Winnipeg
 
 - Went door-to-door asking campaigning for votes.
 
