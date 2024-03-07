@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Hosting Resume Online
 ---
 GitHub Pages
 
