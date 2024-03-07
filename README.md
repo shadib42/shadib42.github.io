@@ -38,7 +38,9 @@ Its purpose to surve as a guide on how to host a resume on online using tools su
 
 
 ## Resourses
-1. [Dillinger](https://dillinger.io)
+1. [Mardown Editor: Dillinger](https://dillinger.io)
+2. [Guide to GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+3. [Guide to using Jekyll in  GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 
 
