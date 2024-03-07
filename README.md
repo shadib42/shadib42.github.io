@@ -34,7 +34,7 @@ Jekyll is a site genarator that is built-in in GitHub Pages. We can use Jekyll t
 2. Inside the "config.yml" file add the line "theme: jekyll-theme-slate"
   - "slate" is the theme name. To use other themes, we can replace it with other theme names such as "minimal", "cayman", "hacker", etc.
 
-Andrew Etter in his book mentions to use site generators. These tools makes it easy to create websites. There are many site generators like, Spjinx, Jekyll, Hugo, etc. but Jekyll is the most popular out of them. We  can also use themes in your static website as it a way to make your website stand out. Themes allow custiomization which can make your website more organized and user-friendly. Etter puts a lot of emphasis on this even suggesting to consult professionals in needed.
+Andrew Etter in his book mentions to use site generators. These tools makes it easy to create websites. There are many site generators like, Spinx, Jekyll, Hugo, etc. but Jekyll is the most popular out of them. We  can also use themes in your static website as it a way to make your website stand out. Themes allow custiomization which can make your website more organized and user-friendly. Etter puts a lot of emphasis on this even suggesting to consult professionals in needed.
 
 
 ### Downloading and installing Jekyll
@@ -83,7 +83,8 @@ Q. Why is Markdown better than a word processor?
 
 A.  There are several reasons why markdown is better,
    - Markdown is more versatile. You can use it to create websites, notes, techinical documentations etc.
-   - Markdown is very lightweight with a very clean syntax and takes up very less memory to be created which is why it is also very easily portable.
+   - Markdown is very lightweight markup language with a very clean syntax
+   - Markdown takes up very less memory to be created which is why it is also very easily portable.
    - It can be opened by any application no matter the operating system and created on any device.
    - If some modification is required the effort needed is very low.
        
@@ -93,5 +94,7 @@ Q. Why is my resume not showing up?
 A. There can be multiple situation where the resume might not showing up. 
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the      page will not generate.
   - If the correct branch from which the site is generated is not selected.
-  - If the resume is in the wrong file: the resume has to be in the file labelled index.md 
+  - If the resume is in the wrong file: the resume has to be in the file labelled index.md
+
+Q. 
 
