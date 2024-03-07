@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Resume on GitHub Pages
 
 
