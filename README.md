@@ -59,9 +59,11 @@ Souvik Ray and Jahidul Islam - *Team Members* - helped me by peer reviewing my f
 
 ## FAQs
 Q. Why is Markdown better than a word processor?
+
 A.  
 
 Q. Why is my resume not showing up?
+
 A. There can be several reason for the resume not showing up. 
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the page will not generate.
   - If the correct branch from which the site is generated is not selected.
