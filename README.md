@@ -20,8 +20,9 @@ We will be using GitHub pages as it allows anyone to host a public website throu
 
 1. Save your resume that is formatted in markdown in a .md file and name the file index.
 2. Open your GitHub account and create a new public repository.
-3. Make sure that the name of the repository is in the format username.github.io and that the default branch in settings is set to main
-4. Upload your resume i.e. index.md file
+3. Make sure that the name of the repository is in the format ``username.github.io``
+4. Upload your resume i.e. the ``index.md`` file
+5. Set the default branch in settings to ``main``
 
 Andrew Etter in his book exlplains in his book to write based on your audience.It is very important to know who you are writing for and what prior knowledge they may have on the subject. Here it is assumed that the user knows what GitHub is and will have the ability to navigate through it. He mentions it is also important to give a desciption on what the subject is and why anyone should need it.
    
@@ -48,7 +49,7 @@ Depending on your device, you may need to download and install Jekyll for your d
 4. Move to that directory using, ``cd myblog``
 5. Build the site, ``bundle exec jekyll serve``
 
-Andrew Etter writes to put instructions on installation processes depending on your audience.
+In his book Andrew Etter mentions that it is important to put instructions on installation processes depending on your audience.
    
 
 ### Animated gif
@@ -69,11 +70,11 @@ An animated gif of my resume.
 
 
 ## Authors and Acknowledgements
-Andrew Etter - *Author of Modern Technical Writing*
+Thanks to Andrew Etter the Author of *Modern Technical Writing* which was a key component in creating this website.
 
-Billie Thompson - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
+This README was written using the template provided by Billie Thompson [PurpleBooth](https://github.com/PurpleBooth)
 
-Souvik Ray and Jahidul Islam - *Team Members* - helped me by peer reviewing my files and pointing out errors and mistakes. 
+Thanks to Souvik Ray and Jahidul Islam my Team Members who helped me by peer reviewing my files and pointing out errors and mistakes. 
 
 
 
@@ -81,9 +82,10 @@ Souvik Ray and Jahidul Islam - *Team Members* - helped me by peer reviewing my f
 Q. Why is Markdown better than a word processor?
 
 A.  There are several reasons why markdown is better,
-   - Markdown is more versatile. You can use it to create websites, notes, techinicla documentations etc.
-   - Markdown is very lightweight and takes up very less memory to be created which is why it is also very easily portable.
+   - Markdown is more versatile. You can use it to create websites, notes, techinical documentations etc.
+   - Markdown is very lightweight with a very clean syntax and takes up very less memory to be created which is why it is also very easily portable.
    - It can be opened by any application no matter the operating system and created on any device.
+   - If some modification is required the effort needed is very low.
        
 
 Q. Why is my resume not showing up?
