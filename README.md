@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Resume"
 ---
 GitHub Pages
 
