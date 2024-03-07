@@ -27,7 +27,7 @@ Its purpose to surve as a guide on how to host a resume on online using tools su
 7. Inside the "config.yml" file add the line "theme: jekyll-theme-slate"
   - "slate" is the theme name. You can use other themes by replacing it with "minimal", "cayman", "hacker", etc.
 
-## animated gif
+## Animated gif
 
 ![cv-gif](https://i.makeagif.com/media/3-07-2024/QaYIpx.gif)
 
@@ -37,23 +37,15 @@ Its purpose to surve as a guide on how to host a resume on online using tools su
 
 
 
-## Resourse 1
+## Resourses
+1. ![Dillinger](www.dillinger.io)
 
 
 
-## Resourse 2
-
-
-
-## Resourse 3
-
-
-
-## Authors 
-
-
-
-## Acknowledgments
+## Authors and Acknowledgements
+1. Andrew Etter
+2. Souvik Ray
+3. Jahidul Islam
 
 
 
