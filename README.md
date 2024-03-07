@@ -9,11 +9,8 @@ This document serves as a guide on how to host a resume on online using tools su
 
 
 ## Prerequisites
-1. A Resume
-   - formatted it in Markdown
-   - make sure its tailored to your job requirements.
-2. Modern Technical Writing by Andrew Etter
-3. A GitHub account
+1. A Resume that is formatted in Markdown and tailored to the specific job requirements
+2. A GitHub account
 
 
 
@@ -25,6 +22,8 @@ We will be using GitHub pages as it allows anyone to host a public website throu
 2. Open your GitHub account and create a new public repository.
 3. Make sure that the name of the repository is in the format username.github.io and that the default branch in settings is set to main
 4. Upload your resume i.e. index.md file
+
+Andrew Etter in his book exlplains in his book to write based on your audience. Here it is assumed that the user knows what GitHub is and will have the ability to navigate through it.  
    
 
 ### Using Jekyll to add themes
