@@ -18,6 +18,8 @@ Its purpose to surve as a guide on how to host a resume on online using tools su
 
 ## Instructions, including animated gif
 
+![cv-gif](https://i.makeagif.com/media/3-07-2024/QaYIpx.gif)
+
 
 
 ## Markdown Tutorial
