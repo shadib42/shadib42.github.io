@@ -1,6 +1,6 @@
 ---
 layout: post
-title: README
+title: false
 ---
 
 # Resume on GitHub Pages
