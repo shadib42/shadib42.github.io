@@ -1,7 +1,3 @@
----
-layout: post
-title: false
----
 
 # Resume on GitHub Pages
 
