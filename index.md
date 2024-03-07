@@ -1,6 +1,3 @@
----
-layout: default
----
 
 **Shadib Shahriyar Hoque**
 
