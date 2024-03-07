@@ -2,7 +2,7 @@
 layout: post
 title: "Resume"
 ---
-# GitHub Pages
+GitHub Pages
 
 
 
