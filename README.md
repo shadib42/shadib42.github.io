@@ -41,10 +41,11 @@ Jekyll is a site genarator that is built-in in GitHub Pages. We can use Jekyll t
 
 
 ## More Resourses
-1. Markdown Tutorial
+1. [Markdown Tutorial](https://www.markdowntutorial.com/)
 2. [Mardown Editor: Dillinger](https://dillinger.io)
-3. [Guide to GitHub Pages](https://docs.github.com/en/pages/quickstart)
-4. [Guide to using Jekyll in  GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+3. [Guide to Markdown](https://www.markdownguide.org/getting-started/)
+4. [Guide to GitHub Pages](https://docs.github.com/en/pages/quickstart)
+5. [Guide to using Jekyll in  GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 
 
@@ -60,11 +61,15 @@ Souvik Ray and Jahidul Islam - *Team Members* - helped me by peer reviewing my f
 ## FAQs
 Q. Why is Markdown better than a word processor?
 
-A.  
+A.  There are several reasons why markdown is better,
+   - Markdown is more versatile. You can use it to create websites, notes, techinicla documentations etc.
+   - Markdown is very lightweight and takes up very less memory to be created which is why it is also very easily portable.
+   - It can be opened by any application no matter the operating system and created on any device.
+       
 
 Q. Why is my resume not showing up?
 
-A. There can be several reason for the resume not showing up. 
+A. There can be multiple situation where the resume might not showing up. 
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the page will not generate.
   - If the correct branch from which the site is generated is not selected.
   - If the CV is in the wrong file: the CV has to be in the file labelled index.md 
