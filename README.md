@@ -96,5 +96,3 @@ A. There can be multiple situation where the resume might not showing up.
   - If the correct branch from which the site is generated is not selected.
   - If the resume is in the wrong file: the resume has to be in the file labelled index.md
 
-Q. 
-
