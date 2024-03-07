@@ -91,5 +91,5 @@ Q. Why is my resume not showing up?
 A. There can be multiple situation where the resume might not showing up. 
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the      page will not generate.
   - If the correct branch from which the site is generated is not selected.
-  - If the CV is in the wrong file: the CV has to be in the file labelled index.md 
+  - If the resume is in the wrong file: the resume has to be in the file labelled index.md 
 
