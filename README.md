@@ -1,8 +1,8 @@
 ---
 layout: post
+title: "Resume"
 ---
-
-# Resume on GitHub Pages
+# GitHub Pages
 
 
 
