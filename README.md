@@ -18,11 +18,12 @@ This document serves as a guide on how to host a resume on online using tools su
 ### Hosting your resume on a static site
 We will be using GitHub pages as it allows anyone to host a public website through GitHub. It is very easy to create and is also free of cost.
 
-1. Save your resume that is formatted in markdown in a .md file and name the file index.
-2. Open your GitHub account and create a new public repository.
-3. Make sure that the name of the repository is in the format ``username.github.io``
-4. Upload your resume i.e. the ``index.md`` file
-5. Set the default branch in settings to ``main``
+1. Save your resume that is formatted in markdown in a .md file
+2. Name the file ``index``.
+3. Open your GitHub account and create a new public repository.
+4. Make sure that the name of the repository is in the format ``username.github.io``
+5. Upload your resume i.e. the ``index.md`` file
+6. Set the default branch in settings to ``main``
 
 Andrew Etter in his book exlplains in his book to write based on your audience.It is very important to know who you are writing for and what prior knowledge they may have on the subject. Here it is assumed that the user knows what GitHub is and will have the ability to navigate through it. He mentions it is also important to give a desciption on what the subject is and why anyone should need it.
    
@@ -49,11 +50,11 @@ Depending on your device, you may need to download and install Jekyll for your d
 4. Move to that directory using, ``cd myblog``
 5. Build the site, ``bundle exec jekyll serve``
 
-In his book Andrew Etter mentions that it is important to put instructions on installation processes depending on your audience.
+In his book Andrew Etter mentions that it is important to put instructions on installation processes depending on your audience. He also breifly mentions the need to use inline styles to highlight text that are important. 
    
 
 ### Animated gif
-An animated gif of my resume.
+An animated gif of the resume.
 
 ![cv-gif](https://i.makeagif.com/media/3-07-2024/QaYIpx.gif)
 
@@ -95,4 +96,8 @@ A. There can be multiple situation where the resume might not showing up.
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the      page will not generate.
   - If the correct branch from which the site is generated is not selected.
   - If the resume is in the wrong file: the resume has to be in the file labelled index.md
+
+Q. Why use GitHub pages to host your website?
+
+A. GitHUb Pages is availabe for free for anyone with a GitHub account. GitHub Pages can be used to host personal or professional website very easily. Websites with custom domains can also be created using GitHub Pages. 
 
