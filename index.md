@@ -56,4 +56,4 @@ Staffmax, Notre Dame Avenue, Winnipeg, MB, Canada
 
 - Went door-to-door asking campaigning for votes.
 
-<a href="/README.html" class="btn">View My README</a>
+<a href="/README.html" class="btn">README with instructions to create this website</a>
