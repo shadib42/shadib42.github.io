@@ -25,7 +25,7 @@ We will be using GitHub pages as it allows anyone to host a public website throu
 5. Upload your resume i.e. the ``index.md`` file
 6. Set the default branch in settings to ``main``
 
-Andrew Etter in his book exlplains in his book to write based on your audience.It is very important to know who you are writing for and what prior knowledge they may have on the subject. Here it is assumed that the user knows what GitHub is and will have the ability to navigate through it. He mentions it is also important to give a desciption on what the subject is and why anyone should need it.
+Andrew Etter in his book exlplains in his book to write based on your audience.It is very important to know who you are writing for and what prior knowledge they may have on the subject. Here it is assumed that the user knows what GitHub is but does not know how to navigate through it. He mentions it is also important to give a desciption on what the subject is and why anyone should need it. In another part of the book Etter mentions the length of the instruction depends on the consumer. This document is intended for anyone who wants to create their own website and thus it is more detailed.
    
 
 ### Using a site generator to add themes
@@ -49,8 +49,11 @@ Depending on your device, you may need to download and install Jekyll for your d
 3. Create a new Jekyll site, ``jekyll new myblog``
 4. Move to that directory using, ``cd myblog``
 5. Build the site, ``bundle exec jekyll serve``
+6. Search ``https://localhost:4000``
 
-In his book Andrew Etter mentions that it is important to put instructions on installation processes depending on your audience. He also breifly mentions the need to use inline styles to highlight text that are important. 
+Some devices might work without needing to do this step but it is always a good idea to include instructions that may be required.
+
+Etter also breifly mentions the need to use inline styles to highlight text that are important. 
    
 
 ### Animated gif
@@ -67,11 +70,12 @@ An animated gif of the resume.
 4. [Guide to GitHub Pages](https://docs.github.com/en/pages/quickstart)
 5. [Guide to Jekyll](https://jekyllrb.com/docs/)
 6. [Guide to using Jekyll in  GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+7. [Gif Maker](https://makeagif.com/)
 
 
 
 ## Authors and Acknowledgements
-Thanks to Andrew Etter the Author of *Modern Technical Writing* which was a key component in creating this website.
+Thanks to Andrew Etter the Author of *Modern Technical Writing* which was a key component in creating this website and its documentation.
 
 This README was written using the template provided by Billie Thompson [PurpleBooth](https://github.com/PurpleBooth)
 
@@ -83,21 +87,24 @@ Thanks to Souvik Ray and Jahidul Islam my Team Members who helped me by peer rev
 Q. Why is Markdown better than a word processor?
 
 A.  There are several reasons why markdown is better,
+    - Markdown is very lightweight markup language with a very clean syntax
    - Markdown is more versatile. You can use it to create websites, notes, techinical documentations etc.
-   - Markdown is very lightweight markup language with a very clean syntax
    - Markdown takes up very less memory to be created which is why it is also very easily portable.
    - It can be opened by any application no matter the operating system and created on any device.
    - If some modification is required the effort needed is very low.
+
+   - Word processor such as Microsoft Word is a very good tool to write texts but it unsuitable for creating websites.
+   - It is not very versatile as it is only available for Windows and macOs operating systems.
        
 
 Q. Why is my resume not showing up?
 
-A. There can be multiple situation where the resume might not showing up. 
+A. There can be multiple situation where the resume might not show up. 
   - Error in repository name: the reporsitory name has to in the format username.github.io. If it is not in this format the      page will not generate.
   - If the correct branch from which the site is generated is not selected.
   - If the resume is in the wrong file: the resume has to be in the file labelled index.md
 
 Q. Why use GitHub pages to host your website?
 
-A. GitHUb Pages is availabe for free for anyone with a GitHub account. GitHub Pages can be used to host personal or professional website very easily. Websites with custom domains can also be created using GitHub Pages. 
+A. GitHUb Pages is availabe for free for anyone with a GitHub account. GitHub Pages can be used to host personal or professional website very easily. It is very easily customizable with site generators such as Jekyll and websites with custom domains can also be created using GitHub Pages. 
 
