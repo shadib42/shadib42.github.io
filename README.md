@@ -106,5 +106,5 @@ A. There can be multiple situation where the resume might not show up.
 
 Q. Why use GitHub pages to host your website?
 
-A. GitHUb Pages is availabe for free for anyone with a GitHub account. GitHub Pages can be used to host personal or professional website very easily. It is very easily customizable with site generators such as Jekyll and websites with custom domains can also be created using GitHub Pages. 
+A. GitHUb Pages is availabe for free for anyone with a GitHub account. GitHub Pages can be used to host personal or professional website very easily. It is very customizable with site generators such as Jekyll and websites with custom domains can also be created using GitHub Pages. 
 
